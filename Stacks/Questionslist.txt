@@ -1,0 +1,60 @@
+1..Implement a stack using an array in C. Include functions for push, pop, and checking if the stack is empty.
+2..Write a program to reverse a string using a stack.
+3,,Implement a function to evaluate a postfix expression using a stack.
+4..Write a C program to convert an infix expression to a postfix expression using a stack.#Important and very important....
+5..Implement a function to check if a given string of parentheses is balanced using a stack.
+6..Write a program to implement two stacks using a single array and efficiently handle overflow and underflow conditions.
+7..Implement a function to sort a stack using another stack as auxiliary space.....#Very important question and very good memory power required to solve this problem...
+8..Write a C program to evaluate a given prefix expression using a stack.......
+9..Implement a stack-based algorithm to solve the Tower of Hanoi problem......... #Most Important Question...
+10..Write a program to evaluate a given mathematical expression containing operators like '+', '-', '*', '/', and parentheses using a stack..........
+11..Implement a function to reverse the order of words in a sentence using a stack.............
+12..Write a C program to implement a stack that supports push, pop, min (to get the minimum element in the stack), and peek (to get the top element) operations, all in O(1) time.........
+13..Implement a stack-based algorithm to convert a binary number to its equivalent decimal representation..................
+14..Write a program to check if a given string is a palindrome using a stack.................
+15..Implement a function to sort a stack using recursion (no other data structure).........
+16..Write a program to implement a stack that supports push, pop, and getMiddle (to get the middle element) operations in O(1) time.
+17..Implement a function to reverse the order of elements in a stack using recursion.
+18..Write a C program to implement a stack that supports push, pop, top, and getMin (to get the minimum element in the stack) operations, all in O(1) time.
+19..Implement a function to remove adjacent duplicates from a string using a stack.
+20..Write a C program to implement a stack that supports push, pop, and findMiddle (to find the middle element) operations in O(1) time.
+          Implement a circular linked list in C with functions to insert at the beginning, end, and middle of the list
+Write a program to traverse a circular linked list and print its elements.
+Implement a function to insert a node at the nth position in a circular linked list.
+Write a program to delete a node with a given key from a circular linked list.
+Implement a function to split a circular linked list into two halves.
+Write a program to concatenate two circular linked lists.
+Implement a function to reverse a circular linked list.
+Write a program to check if a given circular linked list is a palindrome.
+Implement a function to find the length of a circular linked list.
+Write a program to find the sum of all elements in a circular linked list.
+Implement a function to find the nth node from the end of a circular linked list.
+Write a program to find the intersection point of two circular linked lists.
+Implement a function to detect a loop in a circular linked list.
+Write a program to remove duplicates from a sorted circular linked list.
+Implement a function to rotate a circular linked list by k nodes.
+Write a program to sort a circular linked list in ascending order.
+Implement a function to find the starting point of the loop in a circular linked list (if it exists).
+Write a program to find the node with the maximum value in a circular linked list.
+Implement a function to insert a node into a sorted circular linked list.
+Write a program to delete alternate nodes in a circular linked list.
+       Implement a function to reverse a singly linked list in C.
+Write a program to merge two sorted linked lists into a single sorted linked list in C.
+Implement a function to detect a loop in a linked list and return the starting node of the loop if present.
+Write a C program to remove duplicates from an unsorted linked list.
+Implement a function to find the nth node from the end of a linked list in C.
+Write a program to add two numbers represented by linked lists in C.
+Implement a function to partition a linked list around a given value x such that all nodes less than x come before all nodes greater than or equal to x.
+Write a C program to delete a node in a singly linked list given only access to that node.
+Implement a function to check if a linked list is a palindrome in C.
+Write a program to detect and remove a loop in a linked list in C.
+Implement a function to add a new node to a sorted linked list in its correct position in C.
+Write a C program to find the intersection point of two linked lists if they intersect.
+Implement a function to split a linked list into two halves in C.
+Write a program to check if a linked list is circular or not in C.
+Implement a function to find the intersection node of two linked lists without using extra space in C.
+Write a C program to sort a linked list using merge sort.
+Implement a function to flatten a multi-level linked list into a single-level linked list in C.
+Write a program to delete alternate nodes of a linked list in C.
+Implement a function to add two binary numbers represented as linked lists in C.
+Write a C program to reorder a linked list in such a way that the last element becomes the first, the second-last becomes the second, and so on.
