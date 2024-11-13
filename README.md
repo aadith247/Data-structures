@@ -1,5 +1,5 @@
 # DATA-STRUCTURES
-## Data structures USinG C language
+## Data structures Using C language
 > This repository contains beginner-friendly C programs that cover fundamental data structures, designed to be simple and easy to understand.
 ## Contents:
 
