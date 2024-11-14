@@ -2,7 +2,7 @@
 # DATA-STRUCTURES
 ## Data structures Using C language
 > This repository contains beginner-friendly C programs that cover fundamental data structures, designed to be simple and easy to understand.
-
+>This contains graph algorithms too.
 ## Contents:
 
 - **Arrays**: Basic operations, including insertion, deletion, and traversal, with examples.
