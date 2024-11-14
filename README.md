@@ -33,5 +33,15 @@
 
 Each section includes well-documented code examples and explanations to help beginners grasp key concepts in data structures and algorithms.
 
+**sorting**
+
+## Bucket Sort
+Explaination-Bucket sort divides data into several groups, or "buckets," based on value ranges. Each bucket is sorted individually and then combined for the final result. It works best when data is uniformly distributed.
+
+## Radix Sort
+Explaination-Radix sort sorts numbers by processing each digit, starting from the least significant to the most significant. This approach is efficient for fixed-length integers and can achieve linear time complexity.
+
+## Counting Sort-
+Explaination-Counting sort works by counting occurrences of each unique element in the data, then using these counts to determine each element's position in the sorted output. It is efficient for small ranges of integers and works in linear time but requires extra space for counting arrays.
 
 
