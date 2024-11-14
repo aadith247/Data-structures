@@ -44,4 +44,14 @@ Explaination-Radix sort sorts numbers by processing each digit, starting from th
 ## Counting Sort-
 Explaination-Counting sort works by counting occurrences of each unique element in the data, then using these counts to determine each element's position in the sorted output. It is efficient for small ranges of integers and works in linear time but requires extra space for counting arrays.
 
+**Linked list operations**
+
+## FindLoops in Linked List:
+This program detects the presence of a cycle (loop) in a singly linked list using Floyd’s Cycle Detection Algorithm, also known as the "Tortoise and Hare" method. The algorithm uses two pointers:
+
+## The slow pointer (tortoise) moves one node at a time.
+The fast pointer (hare) moves two nodes at a time. If a loop exists, these pointers will eventually meet at some point in the list. This approach is efficient with a time complexity of O(n) and a space complexity of O(1).
+Palindrome Check in Linked List:
+This program checks whether the elements of a linked list form a palindrome (the sequence reads the same forwards and backwards).
+
 
